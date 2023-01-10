@@ -1,0 +1,2 @@
+0: G Freshman PolySci 2.5 3 
+1: S Sophomore CS 3.5 3 
